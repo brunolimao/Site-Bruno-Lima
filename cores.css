@@ -1,6 +1,24 @@
 *{margin-left:0px;
-margin-right:0px;
-padding:5px;}
+margin-right:0px;}
 
-card-body{background-color: #94928d;}
+.card-body{background-color: #94928d;}
 
+#img-menu{height:36rem;
+width:27rem;}
+
+.card-body{background-color:#343a40;}
+
+.card{background-color:black;
+    padding:5px;}
+
+.row{padding:5px;}    
+
+.card-text{color:white;}
+
+.card-title{color:white;
+font-size:36px;}
+
+.container-fluid{background-color:grey;
+width:100%;
+margin-left:5%;
+margin-right:5%;}
