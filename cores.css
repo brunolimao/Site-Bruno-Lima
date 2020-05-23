@@ -1,4 +1,4 @@
-.card-body{background-color: #94928d;}
+
 
 @media (max-width: 768px){
     .img-menu{height:20rem;
@@ -26,4 +26,11 @@
 .card-title{color:white;
 font-size:36px;}
 
-.container-fluid{background-color:grey;}
+.container-fluid{background-color:grey;
+    padding-top:15px !important;}
+
+.img-obg{margin-bottom:10px;
+border:5px solid black;}
+
+.img-menu{border:8px solid black;}
+
