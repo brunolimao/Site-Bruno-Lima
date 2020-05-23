@@ -3,12 +3,17 @@
 @media (max-width: 768px){
     .img-menu{height:20rem;
         width:15rem;}
+        
     }
     
 @media (min-width: 768px){
     .img-menu{height:36rem;width:27rem;}
+    .card2{padding:5px}
+    .card{margin:0px}
 }
-        
+
+.card-body{font-size:1.5rem;} 
+
 .card-body{background-color:#343a40;}
 
 .card{background-color:black;
